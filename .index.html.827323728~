@@ -1,0 +1,41 @@
+<!--Full credit to code.org for task -->
+
+<!DOCTYPE html> 
+<html>
+  <head>
+  <body>
+    <h1>Thomas A. Edison CTE HS</h1>
+    <h2>Web development</h2>
+    <h3>Lab Build It : List</h3>
+    <h4>By:</h4>
+    <h5>Vashti Dalchand</h5>
+    <h6>9/18/23</h6>
+    <hr><!--This makes a horizonal line--></body></head>
+    <h3>Favorite movies</h3>
+    <ol><!--Order List--></ol>
+    <li>Grown Ups</li>
+    <li>Advengers</li>
+    <li>Madea</li>
+    <li>Mean girls</li>
+    <li>The Nun</li>
+    <li>Clueless</li>
+    <li>Fast and Furious</li>
+    <li>Meg 2</li>
+     <li>Vampire Diaries</li>
+    <li>Friday the 13th</li>
+  </ol>
+    <hr>
+    <h3>Favorite Food
+    <ul><!-- it is a unOrder list--</ul>
+      <li>Grown Ups</li>
+    <li>Advengers</li>
+    <li>Madea</li>
+    <li>Mean girls</li>
+    <li>The Nun</li>
+    <li>Clueless</li>
+    <li>Fast and Furious</li>
+    <li>Meg 2</li>
+     <li>Vampire Diaries</li>
+    <li>Friday the 13th</li>
+  </body>
+</html>
